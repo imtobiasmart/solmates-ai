@@ -62,10 +62,10 @@ export default function DashboardPage() {
             <span className="font-bold gradient-text text-lg">Solmates.ai</span>
           </Link>
           <nav className="flex items-center space-x-4">
-            <Link href="/learn">
+            <Link href="/wait">
               <Button variant="ghost" className="nav-link">Continue Learning</Button>
             </Link>
-            <Link href="/learn">
+            <Link href="/wait">
               <Button className="button ripple">New Goal</Button>
             </Link>
           </nav>

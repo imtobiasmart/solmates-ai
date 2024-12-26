@@ -33,7 +33,7 @@ export default function FeaturesPage() {
             <p className="mx-auto max-w-[800px] text-muted-foreground md:text-xl">
               Solmates is your learning companion, offering a conversational experience powered by AI and built on the Science of Learning. From mastering skills to applying them in real-world scenarios, your Solmate is here to guide you every step of the way.
             </p>
-            <Link href="/learn">
+            <Link href="/wait">
               <Button size="lg" className="mt-8 button ripple hover:scale-105 transition-transform">
                 Meet Your Mate
               </Button>
@@ -93,7 +93,7 @@ export default function FeaturesPage() {
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl mb-8">
             Start your personalized learning journey with Solmates and experience a new way of mastering skills.
           </p>
-          <Link href="/learn">
+          <Link href="/wait">
             <Button size="lg" className="button ripple hover:scale-105 transition-transform">
               Start Your Personalized Journey
             </Button>

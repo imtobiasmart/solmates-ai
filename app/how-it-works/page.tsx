@@ -60,7 +60,7 @@ export default function HowItWorksPage() {
         </section>
 
         <section className="text-center">
-          <Link href="/learn">
+          <Link href="/wait">
             <Button size="lg" className="button ripple text-lg px-8 py-6 hover:scale-105 transition-transform">
               Get Started Now
             </Button>

@@ -30,7 +30,7 @@ export default function LandingPage() {
               Contact Us
             </Link>
           </nav>
-          <Link href="/learn">
+          <Link href="/wait">
             <Button>Get Started for Free</Button>
           </Link>
         </div>
@@ -50,7 +50,7 @@ export default function LandingPage() {
             </p>
           </div>
           <div className="flex justify-center gap-4">
-            <Link href="/learn">
+            <Link href="/wait">
               <Button size="lg">Get Started for Free</Button>
             </Link>
             <Button size="lg" variant="outline">

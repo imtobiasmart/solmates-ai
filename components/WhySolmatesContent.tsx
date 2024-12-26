@@ -71,7 +71,7 @@ export default function WhySolmatesContent() {
             <p className="mx-auto max-w-[800px] text-muted-foreground md:text-xl">
               We're more than just an AI tutor. Solmates is built on the Science of Learning and designed to be your personalized Solmate. Here's what makes us different and why learners trust us to help them succeed.
             </p>
-            <Link href="/learn">
+            <Link href="/wait">
               <Button size="lg" className="mt-8 button ripple hover:scale-105 transition-transform">
                 Try Solmates Today
               </Button>
